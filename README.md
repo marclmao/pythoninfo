@@ -1,3 +1,3 @@
-# Simple Python Info checker
+# python info checker
 
-Python script that asks for city and returns weather for that city and network info (Uses OpenWeatherAPI & Ipify)
+checks weather and network stuff ion know i was bored and wanted to try something
